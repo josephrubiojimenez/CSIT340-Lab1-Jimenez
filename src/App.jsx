@@ -29,7 +29,7 @@ export default function App() {
     </section>
 
     <section className="mb-10">
-      <h2 className="text-xl font-semibold mb-3">Things I love</h2>
+      <h2 className="text-xl font-semibold mb-3">Things I like</h2>
       <ul className="list-disc list-inside space-y-1 text-slate-700">
         <li>Playing Online and Offline Games</li>
         <li>Reading articles about what is happening globally.</li>
